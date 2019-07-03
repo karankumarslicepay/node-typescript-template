@@ -1,4 +1,4 @@
-import Bureau from '../../modals/bureau.modal';
+import Bureau from '../../models/bureau.model';
 
 class BureauService {
   private uuid: string;
