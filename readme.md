@@ -18,6 +18,6 @@ npm run lint
 
 ### Building a container
 
-```
-In Progress
+```bash
+npm run build
 ```
